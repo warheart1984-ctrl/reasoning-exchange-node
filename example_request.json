@@ -1,0 +1,9 @@
+﻿{
+  "version": "1.0",
+  "type": "reasoning_packet",
+  "payload": {
+    "claim": "The sky is blue",
+    "reasoning": "Rayleigh scattering",
+    "confidence": 0.9
+  }
+}
